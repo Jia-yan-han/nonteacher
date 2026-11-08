@@ -1,0 +1,7 @@
+agent/data/
+agent/bridge/
+agent/logs/
+*.log
+.env*
+__pycache__/
+node_modules/

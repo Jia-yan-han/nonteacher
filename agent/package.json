@@ -1,0 +1,14 @@
+{
+  "name": "nonteacher-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "不新手老师 · 电脑端教学搭档（本地网关 + 网页）",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "engines": {
+    "node": ">=22.19"
+  }
+}
